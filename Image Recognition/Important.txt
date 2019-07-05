@@ -1,0 +1,3 @@
+Please use your path where your images are stores in separate folder with the name of folder being the label of that particular image.
+
+Your training image should be in "train" folder and test image in "valid" folder.

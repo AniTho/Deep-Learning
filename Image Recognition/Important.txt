@@ -1,3 +1,5 @@
 Please use your path where your images are stores in separate folder with the name of folder being the label of that particular image.
 
 Your training image should be in "train" folder and test image in "valid" folder.
+
+I've used 25 images for per person(train), 15 images per person(test) and almost images for 5 different persons and it gave me an accuracy of around 86-87% 
